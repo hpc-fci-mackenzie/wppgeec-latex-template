@@ -12,7 +12,14 @@ Para instalar o *TeX Live* no *Windows*, basta baixar o executável neste [link]
 
 ### Instalação no *Linux*
 
-Selecionamos para este tutorial de instalação as três distribuições *Linux* mais utilizadas: *Ubuntu*, *Centos* e *Fedora*.
+Selecionamos para este tutorial de instalação as quatro distribuições *Linux* mais utilizadas: *Arch*, *Ubuntu*, *Centos* e *Fedora*.
+
+#### *Arch*
+
+Para instalação do *TeX Live* na versão mais recente do *Arch*, basta copiar e colar o comando abaixo.
+```
+sudo pacman -S texlive-most
+```
 
 #### *Ubuntu*
 Para instalação do *TeX Live* nas versões mais recentes do *Ubuntu*, basta copiar e colar o comando abaixo.
@@ -51,6 +58,14 @@ Para instalar o *TeXstudio* no *Windows*, basta baixar o executável neste [link
 ### Instalação no *Linux*
 
 Selecionamos para esta seção as mesmas três distribuições *Linux* da seção anterior: *Ubuntu*, *Centos* e *Fedora*.
+
+#### *Arch*
+
+Para instalação do *TeXstudio* nas versões mais recentes do Arch Linux, basta copiar e colar o comando abaixo.
+
+```
+sudo pacman -S texstudio
+```
 
 #### *Ubuntu*
 
