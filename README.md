@@ -80,3 +80,12 @@ sudo dnf install texstudio-2.12.10-3.1.x86_64.rpm
 
 Ressaltamos que pode haver variações no nome do arquivo.
 
+
+
+## Compilação via linha de comando
+
+Também há a opção de compilar seu código LaTeX via linha de comando. Para isso é necessário primeiramente ter instalado e configurado o *TeX Live*  como mostrado acima. Após tudo estar configurado, basta executar o comando:
+
+```shell
+pdflatex [nome_do_arquivo].tex
+```
