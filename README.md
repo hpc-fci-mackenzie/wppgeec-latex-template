@@ -57,7 +57,7 @@ Para instalar o *TeXstudio* no *Windows*, basta baixar o executável neste [link
 
 ### Instalação no *Linux*
 
-Selecionamos para esta seção as mesmas três distribuições *Linux* da seção anterior: *Ubuntu*, *Centos* e *Fedora*.
+Selecionamos para esta seção as mesmas três distribuições *Linux* da seção anterior: *Arch*, *Ubuntu*, *Centos* e *Fedora*.
 
 #### *Arch*
 
